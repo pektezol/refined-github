@@ -116,6 +116,7 @@
 	"pr-first-commit-title",
 	"pr-from-branch",
 	"pr-jump-to-first-non-viewed-file",
+	"pr-list-lines-changed",
 	"pr-notification-link",
 	"prevent-comment-loss",
 	"prevent-duplicate-pr-submission",
